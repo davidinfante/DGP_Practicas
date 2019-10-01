@@ -28,3 +28,5 @@ Sergio López Ayala (<a href="https://github.com/Parnstermia">@Parnstermia</a>)
 
 Para la realización de estas prácticas se ha utilizado el IDE <a href="https://developer.android.com/studio/?hl=es-419">Android Studio</a>.
 </dl>
+
+Hacktoberfest!
